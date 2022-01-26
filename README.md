@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://i.giphy.com/media/2nUjpQOJRYY5rC0kUw/giphy.webp" width="360" height="480" />
+
+
+
 <!--
 **ahmedanwar1/ahmedanwar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
