@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style="border-radius:5px;" src="https://i.giphy.com/media/2nUjpQOJRYY5rC0kUw/giphy.webp" width="230" height="350" /> 
+<!-- <img style="border-radius:5px;" src="https://i.giphy.com/media/2nUjpQOJRYY5rC0kUw/giphy.webp" width="230" height="350" />  -->
 <img style="border-radius:5px;" src="https://c.tenor.com/gZbCG-jAThoAAAAM/typing-petty.gif" />
 
 
