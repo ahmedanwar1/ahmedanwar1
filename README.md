@@ -3,6 +3,8 @@
 <!-- <img style="border-radius:5px;" src="https://i.giphy.com/media/2nUjpQOJRYY5rC0kUw/giphy.webp" width="230" height="350" />  -->
 <!-- <img style="border-radius:5px;" src="https://c.tenor.com/gZbCG-jAThoAAAAM/typing-petty.gif" /> -->
 
+#### "Conduct yourself in this world as if you are here to stay forever, and yet prepare for eternity as if you are to die tomorrow."
+
 
 <!-- <iframe src="https://giphy.com/embed/RhZd5BxGKPt0SgyuyV" width="480" height="286" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/splashdw-RhZd5BxGKPt0SgyuyV">via GIPHY</a></p> -->
 
