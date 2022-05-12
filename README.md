@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **ahmed.anwar444442@gmail.com**
+<!-- - 📫 How to reach me **ahmed.anwar444442@gmail.com** -->
 
 
 <h3 align="left">Languages and Tools:</h3>
