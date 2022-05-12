@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XAiWRSsE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rukvu3dz6ztgqrlxsq8.png" />
+<img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" />
 <h1 align="center">Hi 👋, I'm Ahmed Anwar</h1>
 <h3 align="center">a passionate programmer</h3>
 
