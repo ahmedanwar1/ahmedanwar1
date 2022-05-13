@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ACP**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **MERN stack**
 
