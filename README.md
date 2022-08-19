@@ -4,7 +4,7 @@
 <br/>
 
 <!-- <img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif" width="120" /> -->
-<img align="right" src="./images/giphy.gif" width="170"/>
+<img align="right" src="./images/messi.gif" width="170"/>
 
 - 🔭 I’m currently working on **ACP**
 
