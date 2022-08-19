@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 🎉 Fun Fact: **1942 年，在正式比賽中進球最多的人是斯蒂芬·斯坦尼斯，<br/>他為朗斯賽車俱樂部打進了驚人的 16 球**
+- 🎉 Fun Fact: **捏著鼻子哼哼是不可能的**
 
 
 <!-- - 📫 How to reach me **ahmed.anwar444442@gmail.com** -->
