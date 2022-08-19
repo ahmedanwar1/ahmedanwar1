@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" />
 <h1 align="center">Hi 👋, I'm Ahmed Anwar</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
+<br/>
+
+<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif" width="120" />
 
 - 🔭 I’m currently working on **ACP**
 
@@ -9,6 +12,7 @@
 - 💬 Ask me about **MERN stack**
 
 - 🎉 Fun Fact: **用頭撞牆一小時會燃燒一百五十卡路里**
+
 
 <!-- - 📫 How to reach me **ahmed.anwar444442@gmail.com** -->
 
