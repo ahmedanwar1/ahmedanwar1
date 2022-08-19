@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" />
 <h1 align="center">Hi 👋, I'm Ahmed Anwar</h1>
-<h3 align="center">a passionate programmer</h3>
+<h3 align="center">A Passionate MERN Stack Developer</h3>
 
 - 🔭 I’m currently working on **ACP**
 
