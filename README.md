@@ -4,9 +4,11 @@
 
 - 🔭 I’m currently working on **ACP**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **MERN stack**
+
+- 🎉 Fun Fact: **用頭撞牆一小時會燃燒一百五十卡路里**
 
 <!-- - 📫 How to reach me **ahmed.anwar444442@gmail.com** -->
 
