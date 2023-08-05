@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ACP**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **MERN stack**
 
