@@ -6,14 +6,15 @@
 <!-- <img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif" width="120" /> -->
 <!-- <img align="right" src="./images/messi.gif" width="170"/> -->
 
+<!-- 
 - 🔭 I’m currently working on **ACP**
 
 - 🌱 I’m currently learning **.NET**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN stack** 
 
 - 🎉 Fun Fact: **捏著鼻子哼哼是不可能的**
-
+-->
 
 <!-- - 📫 How to reach me **ahmed.anwar444442@gmail.com** -->
 
