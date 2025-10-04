@@ -6,8 +6,8 @@
 
 ### About Me  
 - 💻 Backend-focused Software Engineer  
-- ♟️ Chess enthusiast  
-- 🏋️ Fitness and bodybuilding
+- ♟️ Chess-obsessed
+- 🏋️ Fitness and bodybuilding enthusiast
 - 🥋 Former martial arts practitioner
 - 🦇 Coder by day, Batman by night
 
