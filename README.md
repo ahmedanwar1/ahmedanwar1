@@ -1,7 +1,14 @@
 <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" />
 <h1 align="center">Hi 👋, I'm Ahmed Anwar</h1>
-<h3 align="center">A Passionat Software Engineer</h3>
-<br/>
+<h3 align="center">A Passionate Software Engineer</h3>
+<!--<br/>-->
+
+### About Me  
+- 💻 Backend-focused Software Engineer  
+- ♟️ Chess enthusiast  
+- 🏋️ Fitness and bodybuilding
+- 🦇 Coder by day, Batman by night
+
 
 <!-- <img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif" width="120" /> -->
 <!-- <img align="right" src="./images/messi.gif" width="170"/> -->
