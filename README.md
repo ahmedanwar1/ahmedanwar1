@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Anwar</h1>
-<p align="center">
-<img src="https://github.com/ahmedanwar1/ahmedanwar1/blob/main/images/img1.gif" width="40%"/>
-</p>
 <h3 align="center">A Passionate Software Engineer</h3>
-<!--<br/>-->
+<br/>
+
+<img  align="right" src="https://github.com/ahmedanwar1/ahmedanwar1/blob/main/images/img1.gif" width="40%"/>
 
 ### About Me  
 - 💻 Backend-focused Software Engineer  
@@ -12,6 +11,8 @@
 - 🥋 Former martial arts practitioner
 - 🦇 Coder by day, Batman by night
 
+
+<br/>
 
 <!-- <img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif" width="120" /> -->
 <!-- <img align="right" src="./images/messi.gif" width="170"/> -->
