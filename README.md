@@ -1,5 +1,7 @@
-<img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" />
 <h1 align="center">Hi 👋, I'm Ahmed Anwar</h1>
+<p align="center">
+<img src="https://github.com/ahmedanwar1/ahmedanwar1/blob/main/images/img1.gif" width="40%"/>
+</p>
 <h3 align="center">A Passionate Software Engineer</h3>
 <!--<br/>-->
 
