@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Anwar</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
-<br/>
+<br/><br/>
 
 <img  align="right" src="https://github.com/ahmedanwar1/ahmedanwar1/blob/main/images/img1.gif" width="40%"/>
 
