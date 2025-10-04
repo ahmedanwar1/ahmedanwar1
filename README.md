@@ -7,6 +7,7 @@
 - 💻 Backend-focused Software Engineer  
 - ♟️ Chess enthusiast  
 - 🏋️ Fitness and bodybuilding
+- 🥋 Former martial arts practitioner
 - 🦇 Coder by day, Batman by night
 
 
