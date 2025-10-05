@@ -5,10 +5,14 @@
 ### <img  align="right" src="https://github.com/ahmedanwar1/ahmedanwar1/blob/main/images/img1.gif" width="40%"/>
 
 ### About Me  
-- 💻 Backend-focused Software Engineer  
+- 💻 Backend-focused Software Engineer
+- 🌌 Open-source contributor
+- 🚀 Always learning new tech
+- 🧩 Enjoys hunting bugs (makes life interesting)
 - ♟️ Chess-obsessed
 - 🏋️ Fitness and bodybuilding enthusiast
 - 🥋 Former martial arts practitioner
+- 🔇 Coffee & music’s biggest hater
 - 🦇 Coder by day, Batman by night
 
 
