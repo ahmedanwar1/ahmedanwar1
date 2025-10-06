@@ -12,7 +12,7 @@
 - ♟️ Chess-obsessed
 - 🏋️ Fitness and bodybuilding enthusiast
 - 🥋 Former martial arts practitioner
-- 🔇 Coffee & music’s biggest hater
+- 🚫 Coffee & music’s biggest hater
 - 🦇 Coder by day, Batman by night
 
 
