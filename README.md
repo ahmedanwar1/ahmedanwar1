@@ -13,7 +13,7 @@
 - 🏋️ Fitness and bodybuilding enthusiast
 - 🥋 Former martial arts practitioner
 - 🚫 Coffee & music’s biggest hater
-- ⚡ Coder by day, Super Saiyan by night
+- 🦇 Coder by day, Batman by night
 
 
 <br/>
