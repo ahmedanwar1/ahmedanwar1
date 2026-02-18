@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 <br/>
 
-### <img  align="right" src="https://github.com/ahmedanwar1/ahmedanwar1/blob/main/images/img1.gif" width="40%"/>
+### <img  align="right" src="https://github.com/ahmedanwar1/ahmedanwar1/blob/main/images/img1.gif" width="30%"/>
 
 ### About Me  
 - 💻 Backend-focused Software Engineer
