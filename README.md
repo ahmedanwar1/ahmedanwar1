@@ -7,14 +7,12 @@
 ### About Me  
 - 💻 Backend-focused Software Engineer
 - 🌌 Open-source contributor
+- ⚙️ Building scalable, distributed systems that don’t break under pressure  
+- 🧠 Computer Science enthusiast — Algorithms, Concurrency & System Design  
+- 🛠 Designing clean, testable architectures with production-grade standards  
+- 📈 Focused on performance, reliability 
+- 🔍 Turning complex backend problems into elegant, maintainable solutions 
 - 🚀 Always learning new tech
-- 🧩 Enjoys hunting bugs (makes life interesting)
-- ♟️ Chess-obsessed
-- 🏋️ Fitness and bodybuilding enthusiast
-- 🥋 Former martial arts practitioner
-- 🚫 Coffee & music’s biggest hater
-- 🦇 Coder by day, Batman by night
-
 
 <br/>
 
