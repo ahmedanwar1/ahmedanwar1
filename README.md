@@ -10,7 +10,7 @@
 - ⚙️ Building scalable, distributed systems that don’t break under pressure  
 - 🧠 Computer Science enthusiast — Algorithms, Concurrency & System Design  
 - 🛠 Designing clean, testable architectures with production-grade standards  
-- 📈 Focused on performance, reliability 
+- 📈 Focused on performance & reliability 
 - 🔍 Turning complex backend problems into elegant, maintainable solutions 
 - 🚀 Always learning new tech
 
