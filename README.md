@@ -53,4 +53,5 @@ Let's connect and share ideas:
 <a href="https://linkedin.com/in/ahmedanwar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedanwar1" height="30" width="40" /></a>
 </p> -->
 <br/>
-Feel free to explore my repositories and reach out if you'd like to collaborate. Thanks for visiting!
+<!--Feel free to explore my repositories and reach out if you'd like to collaborate. -->
+Thanks for visiting!
