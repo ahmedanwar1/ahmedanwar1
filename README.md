@@ -41,7 +41,7 @@
 
 Feel free to reach out for collaboration, opportunities, or just a tech discussion 👇
 
-<!-- - 📧 Email: ahmedanwar9060@gmail.com  -->
+- 📧 Email: ahmedanwar9060@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/ahmedanwar1 
 
 Or just WhatsApp me if you have my number 😉
